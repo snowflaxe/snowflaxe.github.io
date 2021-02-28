@@ -1,5 +1,6 @@
 body {
   background-color:cyan;
+  background-image: url(p1io0H.jpg);
 }
 
 h1{
@@ -27,9 +28,9 @@ text-align: center;
 color:darkmagenta;
 }
 .thumbnail{
-  background-color:black;
-  margin:3%;
-  padding:3%;
+  background-color:rgba(0, 0, 0, 0.842);
+  margin:6%;
+  padding:6%;
 }
 .description{
   color:royalblue;
@@ -63,4 +64,5 @@ img{
   text-align: center;
   font-weight: bolder;
   font-style: oblique;
+  text-shadow:0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e60073, 0 0 40px #e60073, 0 0 50px #e60073, 0 0 60px #e60073, 0 0 70px #e60073;
 }
