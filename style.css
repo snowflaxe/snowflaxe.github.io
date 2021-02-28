@@ -1,0 +1,66 @@
+body {
+  background-color:cyan;
+}
+
+h1{
+  font-size: 60px;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  color:palevioletred;
+  margin: 1%;
+}
+h2{
+  font-style: italic;
+  font-size: 50px;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 2px;
+  text-align: center;
+  color:palevioletred;
+  margin: 1%;
+}
+h3{
+font-size: 35px;
+font-family: 'Anton', sans-serif;
+letter-spacing: 2px;
+text-align: center;
+color:darkmagenta;
+}
+.thumbnail{
+  background-color:black;
+  margin:3%;
+  padding:3%;
+}
+.description{
+  color:royalblue;
+  font-size: 25px;
+  font-family:"Anton", sans-serif;
+  letter-spacing:1px;
+  text-align: center;
+}
+.imgdiv{
+  margin: 1%;
+}
+.history{
+  color:palevioletred;
+  font-size:24px;
+  font-weight: bold;
+  text-align:left;
+  list-style-position:inside;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 21%;
+  margin-right: 21%;
+}
+img.image{
+  display: block;
+  margin: 0 auto;
+}
+img{
+  border: 5px solid white;
+}
+.lastw{
+  text-align: center;
+  font-weight: bolder;
+  font-style: oblique;
+}
